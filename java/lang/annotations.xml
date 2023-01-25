@@ -1,0 +1,7 @@
+<root>
+    <item name='java.lang.ThreadLocal java.lang.ThreadLocal&lt;S&gt; withInitial(java.util.function.Supplier&lt;? extends S&gt;)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>
